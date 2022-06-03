@@ -176,6 +176,7 @@ input:focus {
 
 .btn-basic {
     color: transparent;
+    background-clip: text;
     -webkit-background-clip: text;
     background-image: var(--gradient-to-orange);
 }
