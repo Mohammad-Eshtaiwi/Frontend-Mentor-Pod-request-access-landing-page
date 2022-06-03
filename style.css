@@ -362,7 +362,7 @@ main .img img {
     position: absolute;
     bottom: 0;
     right: 0;
-    transform: translateY(-75%);
+    transform: translateY(-60%);
 }
 
 @media screen and (max-width:950px) {
